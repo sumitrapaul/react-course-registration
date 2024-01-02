@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "image":"https://i.ibb.co/D1xnbxZ/images-2.jpg",
+        "title":"Introduction to C Programming",
+        "description":"The C programming language is a procedural and general-purpose language that provides low-level access to system memory.",
+        "price":15000,
+        "credit":1
+    },
+    {
+        "id":2,
+        "image":"https://i.ibb.co/n0LQtQQ/images-3.jpg",
+        "title":"Introduction to Algorithms",
+        "description":"Algorithm means, A set of finite rules or instructions to be followed in calculations or other problem-solving operations.",
+        "price":25000,
+        "credit":2
+    },
+    {
+        "id":3,
+        "image":"https://i.ibb.co/bvcSyyd/images-1.jpg",
+        "title":"Introduction to C++ for DSA",
+        "description":"C++ is an object-oriented programming (OOP) language that is viewed by many as the best language for creating large-scale applications.",
+        "price":10000,
+        "credit":10
+    },
+    {
+        "id":4,
+        "image":"https://i.ibb.co/vvqcrzM/download.jpg",
+        "title":"Basic Data Structures",
+        "description":"A data structure is a specialized format for organizing, processing, retrieving and storing data.",
+        "price":35000,
+        "credit":5
+    },
+    {
+        "id":5,
+        "image":"https://i.ibb.co/gmnWBrW/images-4.jpg",
+        "title":"Introduction to OOP Python",
+        "description":"In Python,object-oriented Programming (OOPs) is a programming paradigm that uses objects and classes in programming.",
+        "price":19000,
+        "credit":5
+    },
+    {
+        "id":6,
+        "image":"https://i.ibb.co/s2D665z/images-5.jpg",
+        "title":"Software Engineering",
+        "description":"A software engineer is a person who applies the engineering design process to design, develop, maintain, test, and evaluate computer.",
+        "price":23000,
+        "credit":2
+    },
+    {
+        "id":7,
+        "image":"https://i.ibb.co/Cb7bV9p/download-1.jpg",
+        "title":"AWS, Cloud Computing",
+        "description":" Cloud computing is the delivery of online services (such as servers, databases, software) to users.",
+        "price":35000,
+        "credit":5
+    },
+    {
+        "id":8,
+        "image":"https://i.ibb.co/56KH1t2/images-6.jpg",
+        "title":"Database (MySQL)",
+        "description":"MySQL is an Oracle-backed open source relational database management system (RDBMS) based on SQL.",
+        "price":19000 ,
+        "credit":5
+    },
+    {
+        "id":9,
+        "image":"https://i.ibb.co/MVzVm3p/images-8.jpg",
+        "title":"Problem-Solving Part",
+        "description":"Problem solving is the process of achieving a goal by overcoming obstacles, a frequent part of most activities",
+        "price":23000 ,
+        "credit":2
+    }
+]
